@@ -7,7 +7,7 @@ Smooth Drawing Canvas: Custom-built DrawingView using Android's Canvas and Path 
 Variable Brush Size: A dedicated brush chooser dialog with a SeekBar to adjust stroke thickness in real-time.
 •
 Color Palette:
-◦
+◦ 
 Quick-access preset color buttons (Purple, Red, Green, Blue, Orange).
 ◦
 Integrated Color Picker for a full spectrum of color choices.
